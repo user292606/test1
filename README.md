@@ -2,7 +2,7 @@
 
 ## Setup environment
 ```
---name main-ds python=3.12
+--name main-ds python=3.10
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
